@@ -31,6 +31,7 @@ The git link [here](https://github.com/ajayvd/Object-Detection.git)
 
 Clone the repo for further check
 
+https://github.com/ajayvd/Object-Detection.git
 
 
 
